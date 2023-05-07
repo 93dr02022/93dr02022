@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently not working 
 
-- 📝 I regularly not write articles on <a href="" target="blank"</a>
+- 📝 I regularly not write articles </a>
 
-- 💬 Don´t ask me about **React, Redux, GraphQl, NextJS**
+- 💬 Don´t ask me about **Everything**
 
 - 📫 How not to reach me **@gmail.com**
  
