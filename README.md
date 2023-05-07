@@ -9,7 +9,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebucks27" alt="codebucks27" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/93dr02022" target="blank"><img src="https://img.shields.io/twitter/follow/code_bucks?logo=twitter&style=for-the-badge" alt="93dr02022" /></a> </p>
+<p align="left"> <a href="https://twitter.com/93dr02022" target="blank"><img src="https://img.shields.io/twitter/follow/93dr02022?logo=twitter&style=for-the-badge" alt="93dr02022" /></a> </p>
 
 - 🔭 I’m currently not working 
 
